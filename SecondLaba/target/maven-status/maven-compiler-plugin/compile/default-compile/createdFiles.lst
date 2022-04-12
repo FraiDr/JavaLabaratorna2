@@ -1,0 +1,10 @@
+com\company\model\Sex.class
+com\company\model\types\WinterShoes.class
+com\company\manager\IShopManager.class
+com\company\model\types\Purpose.class
+com\company\Main.class
+com\company\model\types\Sneakers.class
+com\company\model\types\Bumps.class
+com\company\model\ShoeInfo.class
+com\company\model\types\Assignment.class
+com\company\manager\impl\ShopManager.class
