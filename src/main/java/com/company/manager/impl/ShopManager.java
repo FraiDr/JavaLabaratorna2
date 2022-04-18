@@ -15,6 +15,7 @@ public class ShopManager implements IShopManager {
   private Map<String, List<ShoeInfo>> shoesMap = new HashMap<>();
 
   private Comparator<ShoeInfo> priceComparator = (sh1, sh2) -> {
+
     if (sh1.getPriceInUah() > sh2.getPriceInUah()) {
       return 1;
     } else if (sh1.getPriceInUah() < sh2.getPriceInUah()) {

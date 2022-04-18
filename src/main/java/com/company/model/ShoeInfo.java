@@ -11,7 +11,7 @@ public abstract class ShoeInfo {
   private String material;
   private String color;
   private Integer size;
-  private Integer priceInUah;
+  private int priceInUah;
   private Boolean haveHeels;
   private Boolean isAvailable;
   private Boolean correctiveInsole;
